@@ -63,4 +63,4 @@ Galeria de projetos exibida em um layout de quatro colunas, ajustando-se para du
 
 O footer inclui informações de contato e links para redes sociais, com alinhamento realizado através de Flexbox.
 
-## 🚀 ![Acesse meu Projeto Aqui](https://guilherme-dev15.github.io/landing-page-com-grid-agencia-xyz-/)
+## 🚀 [Acesse meu Projeto Aqui](https://guilherme-dev15.github.io/landing-page-com-grid-agencia-xyz-/)

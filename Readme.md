@@ -25,9 +25,11 @@ Bem-vindo ao projeto **Landing Page com Grid e Flex**, uma demonstração práti
 ![Preview Desktop](./data/site%20landing%20page.gif)
 
 ### Mobile
+
 <p align="center">
-![Preview Mobile](./data/site%20landing%20page%20mobile.gif)
+  <img src="./data/site landing page mobile.gif" alt="Preview Mobile">
 </p>
+
 ## 📐 Estrutura do Projeto
 
 O layout da página está dividido nas seguintes seções:
